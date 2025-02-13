@@ -34,7 +34,7 @@ function App() {
     {
       content: `Then we had our first call and the moment i saw you something clicked.
       `,
-      image: "/character/three.png",
+      image: "/character/Call.png",
     },
     {
       content: `You're beautiful, you're funny, you're fun,
