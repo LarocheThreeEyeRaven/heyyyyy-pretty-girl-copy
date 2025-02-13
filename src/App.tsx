@@ -23,7 +23,7 @@ function App() {
   const steps = [
     {
       content: "Heyyyyy Oyinks",
-      image: "/character/one.png",
+      image: "/character/Oyinks.png",
     },
     {
       content: `Recently, we met.
